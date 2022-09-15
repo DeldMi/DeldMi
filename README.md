@@ -1,9 +1,8 @@
-### Hi there 👋
+## André Felipe do Nascimento Araujo 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@deldmi-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/andrefeilpedo nascimenro)](https://twitter.com/dieegosf) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/andre-felipe-ti-dev/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-André_Felipe-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-felipe-ti-dev/)](https://www.linkedin.com/in/andre-felipe-ti-dev/)
+[![Gmail Badge](https://img.shields.io/badge/-dev.andre.ti@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.andre.ti@gmail.com)](mailto:dev.andre.ti@gmail.com)
 
 
 <!--
