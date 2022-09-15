@@ -1,4 +1,4 @@
-## André Felipe do Nascimento Araujo 👋
+## André Felipe 👋
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-André_Felipe-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-felipe-ti-dev/)](https://www.linkedin.com/in/andre-felipe-ti-dev/)
