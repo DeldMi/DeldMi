@@ -6,8 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-dev.andre.ti@gmail.com-007FFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.andre.ti@gmail.com)](mailto:dev.andre.ti@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-DelldMi-007FFF?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/delldmi/)](https://www.instagram.com/delldmi/)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
           
 ### 
 
