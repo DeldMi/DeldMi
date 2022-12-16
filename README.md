@@ -10,6 +10,12 @@
           
 ### 
 
+## PROJETO
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6f845ee9-ad5b-48ad-9678-6b34cb5b5214/deploy-status)](https://app.netlify.com/sites/a3gs/deploys)
+
+###
+
+
 ###
 
 ### Nota
