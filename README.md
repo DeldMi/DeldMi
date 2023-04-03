@@ -11,7 +11,7 @@
 ### 
 
 ## PROJETO
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6f845ee9-ad5b-48ad-9678-6b34cb5b5214/deploy-status)](https://app.netlify.com/sites/a3gs/deploys)
+[![A3GS](https://img.shields.io/badge/-A3GS-007FFF?style=flat-square&logo=site&logoColor=white&link=https://www.youtube.com/@andre-felipe/)](https://a3gs.com.br/)
 
 ###
 
