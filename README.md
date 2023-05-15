@@ -12,6 +12,10 @@
 
 ## PROJETO
 [![A3GS](https://img.shields.io/badge/-A3GS-007FFF?style=flat-square&logo=site&logoColor=white&link=https://www.youtube.com/@andre-felipe/)](https://a3gs.com.br/)
+[![Happy](https://img.shields.io/badge/-Happy-007FFF?style=flat-square&logo=site&logoColor=white&link=https://www.youtube.com/@andre-felipe/)](https://github.com/DeldMi/Happy)
+[![feedback](https://img.shields.io/badge/-feedback-007FFF?style=flat-square&logo=site&logoColor=white&link=https://www.youtube.com/@andre-felipe/)](https://github.com/DeldMi/feedback)
+[![blogPessual](https://img.shields.io/badge/-blogPessual-007FFF?style=flat-square&logo=site&logoColor=white&link=https://www.youtube.com/@andre-felipe/)](http://app.a3gs.com.br/web/cv/)
+
 
 ###
 
