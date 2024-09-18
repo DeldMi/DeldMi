@@ -5,43 +5,94 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+    <div class="">
+      <a href="#"><img width="60px" src="https://a3gs.com.br/img/logo-A3GS-write.png" alt="foto" /></a>
     </div>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">DDDD</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="search-bar">
+      <input type="text" placeholder="Search...">
+    </div>
+
   </header>
 
   <main>
-    <TheWelcome />
+    
   </main>
+
+  <footer>
+    <p style="font-size: 10pt;"> Todos os direito a André Felipe - 2024</p>
+  </footer>
 </template>
 
 <style scoped>
 header {
-  line-height: 1.5;
+  /* line-height: 1.5; */
+  width: 100%;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 2rem;
+ 
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+
+  nav{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    ul{
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+      li:hover{
+        border: 1px solid #0b746b;
+      }
+      li{
+        padding: 5px 20px;
+        border-radius: 10px;
+        border: 1px solid #00000000;
+        
+        a{
+          color: #fff;
+          text-decoration: none;
+        }
+      }
+    }
+  }
 }
 
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
+
+footer {
+  width: 100%;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
 }
 
-@media (min-width: 1024px) {
+/* @media (min-width: 1024px) {
   header {
     display: flex;
     place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
+    align-items: center;
+    justify-content: space-between;
+    
 
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
   }
 }
+*/
 </style>
