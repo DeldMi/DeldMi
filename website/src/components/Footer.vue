@@ -12,19 +12,19 @@
       </Link>
       <ul class="nav col-md-4 justify-content-end">
         <li class="nav-item">
-          <Link to="#" class="nav-link px-2 ">Home</Link>
+          <Link to="/" class="nav-link px-2 ">Home</Link>
         </li>
         <li class="nav-item">
-          <Link to="#" class="nav-link px-2 ">Features</Link>
+          <Link to="/features" class="nav-link px-2 ">Features</Link>
         </li>
         <li class="nav-item">
-          <Link to="#" class="nav-link px-2 ">Pricing</Link>
+          <Link to="/pricing" class="nav-link px-2 ">Pricing</Link>
         </li>
         <li class="nav-item">
-          <Link to="#" class="nav-link px-2 ">FAQs</Link>
+          <Link to="/faq" class="nav-link px-2 ">FAQs</Link>
         </li>
         <li class="nav-item">
-          <Link to="#" class="nav-link px-2 ">About</Link>
+          <Link to="/about" class="nav-link px-2 ">About</Link>
         </li>
       </ul>
     </div>
