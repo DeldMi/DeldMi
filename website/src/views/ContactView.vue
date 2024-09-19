@@ -3,7 +3,7 @@ import { useRoute } from 'vue-router'
 
 const route = useRoute();
 
-document.title = `André Felipe | ${route.name}`;
+document.title = `André Felipe | ${String(route.name)}`;
 
 </script>
 

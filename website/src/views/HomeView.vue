@@ -1,14 +1,12 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+
 import { useRoute } from 'vue-router'
 
 const route = useRoute();
 
-document.title = `André Felipe | ${route.name}`;
-
-
-
+document.title = `André Felipe | ${String(route.name)}`;
 </script>
+
 
 <template>
 
