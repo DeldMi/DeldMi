@@ -1,5 +1,8 @@
-# André Felipe N.A. / DelldMi 👋
+<div>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello+Word!;Hi%2C+how+are+you%3F;Welcome+here!;I'm+Andr%C3%A9+Felipe;Or+also+DelldMi"/>
+</div>
 
+## Sobre
 Desenvolvedor Full Stack com ampla experiência em redes e soluções de TI. Comprometido com a criação de tecnologias que ajudam pessoas e empresas a resolver problemas, sempre guiado por princípios éticos, lealdade e uma filosofia de vida baseada em valores humanitários. Entusiasta da ciência e dedicado à descoberta, com uma paixão por inovação, aprendizado contínuo, persistência e crescimento pessoal e profissional.
 
 ## Contatos / Redes sociais
