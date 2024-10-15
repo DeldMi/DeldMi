@@ -55,9 +55,20 @@ Tenho participado ativamente como voluntário em competições e eventos, inclui
 Guiado por uma visão cristã, acredito em respeito, integridade e compromisso com a ética. Quero contribuir para o crescimento de minha comunidade e ajudar a construir um futuro melhor.
 
 ## 📈 Estatísticas do GitHub
-<!-- 	
-<div> <a href="https://github.com/DeldMi"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeldMi&layout=compact&langs_count=7&theme=react"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeldMi&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> </div>
---> 
-## 🐍 Snake Animation <picture>   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeldMI/DeldMi/output/github-contribution-grid-snake.svg">   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeldMI/DeldMi/output/github-contribution-grid-snake.svg">   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DeldMI/DeldMi/output/github-contribution-grid-snake.svg"> </picture>  
+<div id="startoGithub" style="display: flex; justify-content: space-around; align-items: flex-start; margin: 0 0 0 20px ">
+    <a href="https://github.com/DeldMi#startoGithub" target="_blank">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeldMi&layout=compact&langs_count=7&theme=react" alt="Linguagens mais usadas"/>
+    </a>
+    <a style="margin: 0 0 0 10px " href="https://github.com/DeldMi" target="_blank">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeldMi&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    </a>
+</div>
+
+## 🐍 Snake Animation
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeldMI/DeldMi/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeldMI/DeldMi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DeldMI/DeldMi/output/github-contribution-grid-snake.svg">
+</picture>  
 ---
 ---  **DeldMi/DeldMi** é um repositório especial para mostrar meus projetos, habilidades e crescimento contínuo no mundo da tecnologia. Fique à vontade para se conectar e colaborar!
