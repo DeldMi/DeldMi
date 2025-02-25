@@ -40,7 +40,7 @@ Busco atuar em projetos de desenvolvimento Full Stack, soluções em TI, e cresc
 Conhecimento em arquitetura de redes e soluções de TI.
 
 ## 📚 Educação e Certificações
-- **Faculdade de Ciência da Computação** (Descomplicação) - Arquitetura de Rede e Full Stack Dev.
+- **Faculdade de Ciência da Computação** (Descomplica) - Full Stack.
 - **Certificações em TI:** Coursera, DIO, IOS (TOTUS).
 - **Cursos adicionais:** Desenvolvimento Web, DevOps, e Fluência Digital com Microsoft Office.
 
