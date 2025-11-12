@@ -1,0 +1,26 @@
+{
+  "targetDomains": ["aulas.descomplica.com.br"],
+  "selectors": {
+    "content": ["article"],
+    "title": "h1"
+  },
+  "header": {
+    "enabled": true,
+    "text": "Resumo de Aula",
+    "includeURL": true
+  },
+  "styles": {
+    "inline": true,
+    "font": "Georgia, serif",
+    "color": "#111",
+    "centerContent": true
+  },
+  "button": {
+    "positionX": "right",
+    "positionY": "bottom",
+    "color": "#2a5d84"
+  },
+  "mainAction": "print",
+  "fileFormat": "pdf",
+  "autoPrint": false
+}
