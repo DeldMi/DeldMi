@@ -10,10 +10,10 @@
         "hoverColor": "#004c99"
     },
     "printOptions": {
-        "includeHeader": true,
+        "includeHeader": false,
         "includeStyles": true,
         "includeFonts": true,
-        "targetSelector": "#conteudo, .principal, article",
+        "targetSelector": "article",
         "allowSave": true
     },
     "header": {
