@@ -17,6 +17,6 @@
     "color": "#063970",
     "icon": "🖨️"
   },
-  "saveFormats": ["pdf", "html", "txt"],
+  "saveFormats": ["pdf", "html", "txt", "word", "md"],
   "fileName": "Aula-Impressa"
 }
