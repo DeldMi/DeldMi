@@ -1,14 +1,22 @@
 {
-  "domains": ["aulas.descomplica.com.br"],
-  "selectors": ["article"],
-  "titleSelector": "h1",
-  "fixedTitle": "Aula Descomplica",
-  "copyStyles": true,
-  "showHeader": true,
-  "autoPrint": false,
-  "allowDownload": true,
-  "buttonPosition": {
-    "vertical": "bottom",
-    "horizontal": "right"
-  }
+  "targets": ["aulas.descomplica.com.br"],
+  "selectors": {
+    "content": ["article"],
+    "title": "h1"
+  },
+  "options": {
+    "inlineStyles": true,
+    "autoPrint": false,
+    "includeHeader": true,
+    "headerText": "Relatório da Aula",
+    "headerSubtext": "Gerado automaticamente",
+    "headerAlign": "center"
+  },
+  "button": {
+    "position": "bottom-right",
+    "color": "#063970",
+    "icon": "🖨️"
+  },
+  "saveFormats": ["pdf", "html", "txt"],
+  "fileName": "Aula-Impressa"
 }
