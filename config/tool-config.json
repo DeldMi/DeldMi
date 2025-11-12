@@ -1,29 +1,14 @@
 {
-    "button": {
-        "text": "🖨️ Imprimir Seção",
-        "color": "#ffffff",
-        "background": "#0066cc",
-        "position": "bottom-right",
-        "fontSize": "14px",
-        "padding": "10px 20px",
-        "borderRadius": "10px",
-        "hoverColor": "#004c99"
-    },
-    "printOptions": {
-        "includeHeader": false,
-        "includeStyles": true,
-        "includeFonts": true,
-        "targetSelector": "article",
-        "allowSave": true
-    },
-    "header": {
-        "text": "Relatório A3GS Tec",
-        "fontFamily": "Arial, sans-serif",
-        "fontSize": "20px",
-        "color": "#222222",
-        "alignment": "center"
-    },
-    "activeSites": [
-        "aulas.descomplica.com.br"
-    ]
+  "domains": ["aulas.descomplica.com.br"],
+  "selectors": ["article"],
+  "titleSelector": "h1",
+  "fixedTitle": "Aula Descomplica",
+  "copyStyles": true,
+  "showHeader": true,
+  "autoPrint": false,
+  "allowDownload": true,
+  "buttonPosition": {
+    "vertical": "bottom",
+    "horizontal": "right"
+  }
 }
